@@ -4,6 +4,11 @@ ChessNet is a multiplayer chess game using Python's socket programming, allowing
 # ♟️ Chess Multiplayer Game (Client-Server)
 
 [![GitHub stars](https://img.shields.io/github/stars/IqraaAzam/ChessServerClient?style=flat&logo=github&color=yellow)](https://github.com/IqraaAzam/ChessServerClient/stargazers)
+![Repo Stars](https://img.shields.io/github/stars/IqraaAzam/ChessServerClient?style=social)
+![Repo Forks](https://img.shields.io/github/forks/IqraaAzam/ChessServerClient?style=social)
+![Repo Issues](https://img.shields.io/github/issues/IqraaAzam/ChessServerClient)
+![Last Commit](https://img.shields.io/github/last-commit/IqraaAzam/ChessServerClient)
+
 
 Welcome to the *Chess Multiplayer Game!* 🎮 This is an exciting multiplayer chess game that allows you to play with others in real-time, using Python and sockets for seamless communication. 🌐
 
