@@ -3,8 +3,7 @@ ChessNet is a multiplayer chess game using Python's socket programming, allowing
 
 # ♟️ Chess Multiplayer Game (Client-Server)
 
-[![GitHub stars](https://img.shields.io/github/stars/IqraaAzam/ChessServerClient?style=social)](https://github.com/IqraaAzam/ChessServerClient/stargazers)
-
+[![GitHub stars](https://img.shields.io/github/stars/IqraaAzam/ChessServerClient?style=flat&logo=github&color=yellow)](https://github.com/IqraaAzam/ChessServerClient/stargazers)
 
 Welcome to the *Chess Multiplayer Game!* 🎮 This is an exciting multiplayer chess game that allows you to play with others in real-time, using Python and sockets for seamless communication. 🌐
 
@@ -65,6 +64,9 @@ To start the server, run the following command in VS Code terminal:
 python server.py
 ```
 The server will start on localhost (127.0.0.1) and listen on port 5555 by default.
+### 🎉 Server Output:
+![image](https://github.com/user-attachments/assets/a0bbfab4-6cf9-49ff-b503-114e5fec996b)
+
 
 
 ### 🎮 Running the Client
@@ -72,7 +74,11 @@ To run the client and join the game:
 ```bash
 python client.py
 ```
-When prompted, you can choose whether you want to play as a player or spectate an ongoing game. 🧑‍🤝‍🧑👀
+#### 🎉 Client Output (Example):
+
+![image](https://github.com/user-attachments/assets/c61c14b0-947e-40fd-9575-cae34c391b07)
+
+When prompted, you can choose whether you want to play as a player or spectate an ongoing game. 🧑‍🤝‍🧑
 
 ## 📸 Assets
 The client needs images for the chess pieces. Make sure they’re in the assets/ folder, following these names:
